@@ -1,0 +1,6 @@
+20220608	11:13:09	6bf99aa9-ae08-4da4-a2ac-c04d40a975ab	Error: ENOENT: no such file or directory, stat 'E:\node_crud_op\routes\views\index.html'
+20220617	12:03:11	37166a48-86d9-4580-9478-cadc013d7e49	Error: ENOENT: no such file or directory, stat '/home/skeinserver/Downloads/node_crud_op/views/404.html'
+20220617	14:28:00	de015222-8978-4c79-a7e0-fb3d1fa4b6e7	Error: ENOENT: no such file or directory, stat '/home/skeinserver/Downloads/node_crud_op/views/index.html'
+20220617	14:28:00	2e77718e-d259-45fc-976a-ab99994ec388	Error: ENOENT: no such file or directory, stat '/home/skeinserver/Downloads/node_crud_op/views/404.html'
+20220705	14:06:31	ed95d19e-7aba-4f74-b8cb-b6cbf854b2ac	SyntaxError: Unexpected token ] in JSON at position 67
+20220707	15:12:55	f24c9002-c4e2-4245-8084-b7d4b20386fb	SyntaxError: Unexpected string in JSON at position 67
