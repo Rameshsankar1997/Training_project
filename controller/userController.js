@@ -39,6 +39,9 @@ async createUser(req,res){
         res.send({
           message: "Register is created successfully."
         });
+        res.send({
+          message: "Register is created successfully."
+        });
         // console.log(userData);
         nodemailer.sendConfirmationEmail(
           userData.username,
